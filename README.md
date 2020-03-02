@@ -1,3 +1,5 @@
+# THIS HAS BEEN MERGED UPSTREAM, https://github.com/byrnereese/mkdocs-bootstrap4/pull/5
+
 # MkDocs Bootstrap4 Theme
 
 This project provides a Bootstrap v4.0+ theme is for the [MkDocs] project.
